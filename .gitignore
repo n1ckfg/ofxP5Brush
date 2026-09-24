@@ -137,3 +137,10 @@ Desktop.ini
 ![Bb]in/data
 *.db
 .vs/
+#########################
+# ofxP5Brush examples
+#########################
+
+example*/bin/*
+!example*/bin/data/
+example*/obj/
